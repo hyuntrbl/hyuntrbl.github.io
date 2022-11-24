@@ -8,9 +8,6 @@ function App() {
           <a className="Big" href="https://www.behance.net/gallery/156250441/RIDM-Rare-Incurable-Disease-Management" target="_blank" rel="noreferrer">
             221022_RIDM
           </a>
-          <a className="Big" href="https://github.com/IngoteamSunrin/Ingopass_Backend" target="_blank" rel="noreferrer">
-            220918_Ingopass
-          </a>
           <a className="Big" href="https://www.behance.net/gallery/138293955/Flow-Music-Streaming" target="_blank" rel="noreferrer">
             220227_Flow
           </a>
